@@ -1,0 +1,9 @@
+{
+  "name": "smatch",
+  "version": "0.1.0",
+  "description": "AHPaaS",
+  "main": "index.js",
+  "repository": "https://source.cloud.google.com/resonant-cairn-300806/smatch",
+  "author": "Rad Warmbold <absidyholdings@gmail.com>",
+  "license": "CC0 1.0"
+}
